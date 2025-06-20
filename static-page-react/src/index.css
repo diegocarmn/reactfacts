@@ -48,6 +48,7 @@ nav {
 
 main {
   padding-left: 30px;
+  background: url(../src/assets/react-icon-2.svg) no-repeat right center;
 }
 ul {
   padding-top: 48px;

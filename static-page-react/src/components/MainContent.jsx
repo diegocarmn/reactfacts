@@ -1,4 +1,4 @@
-export default function Main() {
+export default function MainContent() {
     return (
         <main>
             <h1>Fun facts about React</h1>
